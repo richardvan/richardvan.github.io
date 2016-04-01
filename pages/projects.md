@@ -1,22 +1,23 @@
 ---
 layout: page
-title: teaching
-description: Karl Broman's teaching
+title: projects
+description: Richard Van's projects
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
+            <li><a href="#current">current</a></li>
+            <li><a href="#shortcourses">freelance</a></li>
             <li><a href="#misc">misc lectures</a></li>
             <li><a href="#old">former courses</a></li>
+            <li><a href="https://github.com/richardvan">github</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="current"></a>Current courses
+### <a name="current"></a>Current
 
 #### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2015)
 
