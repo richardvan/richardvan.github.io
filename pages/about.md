@@ -1,10 +1,10 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Richard Van currently lives in Las Vegas, B.S Computer Science (UCLA 2010), Master's Business Administration (UNR 2013), World Traveler (30+ Countries)
 ---
 
-Karl Broman is Professor in the
+Richard Van is currently living in Las Vegas in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
@@ -54,17 +54,17 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>van</code><b>I</b><code>richard</code><b>don't</b><code>@</code><b>want</b><code>g</code><b>spam!
+            </b><code>mail</code><b>So</b><code>.</code><b>please</b><code>c</code><b>leave
+            </b><code>om</code><b>me</b><b>alone</b><b>!</b><br/>
+            Phone: 775-544-8816
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../assets/pics/richardvan_2015-03-02_RAW.JPG">
+            <img src="../assets/pics/richardvan_2015-03-02_small.JPG"
+                  title="Richard Van" alt="Richard Van"/></a>
         </div>
     </div>
 </div>
