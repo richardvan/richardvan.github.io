@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Richard Van
-description: Richard Van currently lives in Las Vegas, B.S Computer Science (UCLA 2010), Master's Business Administration (UNR 2013), World Traveler (30+ Countries)
+description: Richard Van Personal Website
 keywords: richardvan, bruinvan
 ---
 
