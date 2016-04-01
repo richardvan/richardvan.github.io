@@ -8,7 +8,7 @@ keywords: richardvan, bruinvan
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/richardVanResume.pdf">resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/RichardVanResume.pdf">resume</a></li>
           <li><a href="https://github.com/richardvan">github</a></li>
           <li><a href="http://richardvan.wordpress.com">blog</a></li>
           <li><a href="https://twitter.com/richardvan25">@richardvan25</a></li>
