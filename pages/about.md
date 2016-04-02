@@ -6,7 +6,7 @@ description: Richard Van Personal Website
 
 Richard Van is a well-rounded individual with experience in attempting his own startup, traveling the world, and working as a developer for five years.
 
-Born and attended K-12 in Reno, Nevada.
+In his early life, he was born in Reno, Nevada where he attended public school for K-12 education.
 
 He received a B.S. in [Computer Science](http://www.cs.ucla.edu/) in 2010, from the University of California, Los Angeles; and a Master's of [Business Administration ](http://www.unr.edu/degrees/business-administration/mba) in 2013, from the University of Nevada, Reno.
 
