@@ -8,11 +8,11 @@ keywords: richardvan, bruinvan
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/RichardVanResume.pdf">resume</a></li>
-          <li><a href="https://github.com/richardvan">github</a></li>
           <li><a href="http://richardvanblog.wordpress.com">blog</a></li>
           <li><a href="https://www.linkedin.com/in/richardavan">linkedin</a></li>
-          <li><a href="https://twitter.com/richardvan25">@richardvan25</a></li>
+          <li><a href="https://github.com/richardvan">github</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/RichardVanResume.pdf">resume</a></li>
+<!--          <li><a href="https://twitter.com/richardvan25">@richardvan25</a></li>-->
       </ul>
   </div>
 </div>
@@ -47,7 +47,7 @@ keywords: richardvan, bruinvan
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see my projects</a></li>
+          <li>Personal Website</li>
       </ul>
   </div>
 </div>
