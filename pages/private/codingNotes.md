@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chains update
+title: Coding Notes
 description: to learn
 ---
 

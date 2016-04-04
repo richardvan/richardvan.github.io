@@ -10,7 +10,7 @@ keywords: richardvan, bruinvan
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/RichardVanResume.pdf">resume</a></li>
           <li><a href="https://github.com/richardvan">github</a></li>
-          <li><a href="http://richardvan.wordpress.com">blog</a></li>
+          <li><a href="http://richardvanblog.wordpress.com">blog</a></li>
           <li><a href="https://twitter.com/richardvan25">@richardvan25</a></li>
       </ul>
   </div>
@@ -20,7 +20,7 @@ keywords: richardvan, bruinvan
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="http://www.hdwallpapers.in/walls/autumn_bench-HD.jpg" alt="R" title="R"/>
+        <img src="assets/pics/richardvan_2015-03-02_small.jpg" alt="Richard Van" title="Red Rock Canyon - Calico Hills, March 2016"/>
     </a>
   </td>
   <td class="right">
@@ -32,7 +32,7 @@ keywords: richardvan, bruinvan
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/pics/richardvan_2014-07-25_small.jpg" alt="Richard Van" title="Red Rock Canyon - Calico Hills, March 2016"/>
     </a>
   </td>
   <td class="right">

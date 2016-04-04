@@ -44,8 +44,8 @@ He currently lives in Las Vegas and enjoys being close to family and friends.
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/richardvan_2015-03-02_RAW.JPG">
-            <img src="../assets/pics/richardvan_2015-03-02_small.jpg"
+        <a href="../assets/pics/richardvan_2014-07-25_RAW.JPG">
+            <img src="../assets/pics/richardvan_2014-07-25_small.jpg"
                   title="Richard Van" alt="Richard Van"/></a>
         </div>
     </div>
