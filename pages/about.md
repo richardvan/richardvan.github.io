@@ -4,7 +4,7 @@ title: about
 description: Richard Van Personal Website
 ---
 
-Richard Van is a well-rounded individual with experience in attempting his own startup, traveling the world, and working as a developer for five years.
+Richard Van is a well-rounded individual with experience in attempting his own startup, traveling the world, and working as a developer for five years.  He enjoys leveraging technology to do new things.
 
 In his early life, he was born in Reno, Nevada where he attended public school for K-12 education.
 
@@ -14,13 +14,13 @@ He was formerly a software engineer at [International Game Technology](https://w
 
 In 2014 he gracefully quit his job and did some long-term traveling to learn more about the world and himself, he traveled through over twenty [countries](http://richardvan.com/pages/travel.html) for six months.
 
-In 2015 he and his friend bootstrapped their own startup idea that focused on Nightlife Events Planning called [SinPal](http://richardvan.com/pages/startup.html). The idea didn't gain traction but they both learned a lot from the experience.
+In 2015 he and his friend bootstrapped their own startup idea that focused on Nightlife Events Planning called [SinPal](http://richardvan.com/pages/startup.html). The idea didn't gain the traction they aimed for but they both learned a lot from the experience.
 
-Outside of his professional career, he also has work experience in both customer service and construction projects.  His first job as a teenager was a dishwasher for the family restaurant business where he learned to work as a cashier, bus boy, and waiter;  From time to time, he finds himself working with his father on a construction projects centering around renovations of commercial and residential properties.
+Outside of his professional career, he also has work experience in both customer service  and construction projects.  His first job as a teenager was a dishwasher for the family restaurant business where he learned to work as a cashier, bus boy, and waiter;  From time to time, he finds himself working with his father on a construction projects centering around renovations of commercial and residential properties.
 
 Leisurely he enjoys reading, exercising, cooking, walking his dog, watching sports, snowboarding/skiing, scuba diving, tinkering with the [arduino](https://www.arduino.cc/), and listening to music.
 
-He currently lives in Las Vegas and enjoys being close to family and friends.
+He currently lives in Las Vegas and enjoys being around family and friends.
 
 [resume ![resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/RichardVanResume.pdf)
 
@@ -44,7 +44,7 @@ He currently lives in Las Vegas and enjoys being close to family and friends.
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/richardvan_2014-07-25_RAW.JPG">
+        <a href="../assets/pics/richardvan_2014-07-25.JPG">
             <img src="../assets/pics/richardvan_2014-07-25_small.jpg"
                   title="Richard Van" alt="Richard Van"/></a>
         </div>
