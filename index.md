@@ -26,19 +26,19 @@ keywords: richardvan, bruinvan
   </td>
   <td class="right">
      <a href="assets/pics/sinpalScreenshot.jpg">
-        <img src="assets/pics/sinpalScreenshot_small.jpg" alt="R" title="SinPal front page - November 2015"/>
+        <img src="assets/pics/sinpalScreenshot_small.jpg" alt="Richard Van" title="SinPal front page - November 2015"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="assets/pics/richardvan_2015-03-02.JPG">
-        <img src="assets/pics/richardvan_2015-03-02_small.JPG" alt="Richard Van" title="My parent's hometown, Honggai, Vietnam - March 2015"/>
+    <a href="assets/pics/richardvan_2015-03-20.jpg">
+        <img src="assets/pics/richardvan_2015-03-20_small.jpg" alt="Richard Van" title="Parent's hometown, Honggai, Vietnam - March 2015"/>
     </a>
   </td>
   <td class="right">
      <a href="assets/pics/richardvan_2013-06-02.JPG">
-        <img src="assets/pics/richardvan_2013-06-02_small.JPG" alt="R" title="Koh Racha Yai, Thailand - June 2013"/>
+        <img src="assets/pics/richardvan_2013-06-02_small.JPG" alt="Richard Van" title="Koh Racha Yai, Thailand - June 2013"/>
     </a>
   </td>
 </tr>
