@@ -47,7 +47,7 @@ keywords: richardvan, bruinvan
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li>Personal Website</li>
+          <li><a href="pages/thisSite.html">Personal Website</a></li>
       </ul>
   </div>
 </div>

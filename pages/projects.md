@@ -16,8 +16,8 @@ description: Richard Van's projects
 
 #### Home Utilities Tracking with Graphs
 - Mosaic Harbor
-  \[[info](pages/projects/mosaicHarbor) |
-  [github](http://www.github.com//)\]
+  \[[info](projects/mosaicHarbor.html) |
+  [live](projects/mosaicHarbor/live)\]
 
 
 ### Projects (I want to show off, but making the source code private)
