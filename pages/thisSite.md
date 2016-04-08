@@ -5,6 +5,8 @@ description: Explaining how I understand how a Jekyll Blog works
 ---
 
 This personal website is a jekyll blog (TODO_link here)
+- http://kbroman.org/simple_site/pages/project_site.html
+- http://kbroman.org/simple_site/pages/local_test.html
 
 Good readings, mainly this one from the creator: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
 
