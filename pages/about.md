@@ -39,7 +39,6 @@ He currently lives in Las Vegas and enjoys being around family and friends.
             Email: <code>van</code><b>I</b><code>richard</code><b>don't</b><code>@</code><b>want</b><code>g</code><b>spam!
             </b><code>mail</code><b>So</b><code>.</code><b>please</b><code>c</code><b>leave
             </b><code>om</code><b>me</b><b>alone</b><b>!</b><br/>
-            Phone: 775-544-8816
             </div>
         </div>
 
