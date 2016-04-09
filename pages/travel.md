@@ -4,6 +4,7 @@ title: travel
 ---
 
 Countries I visited during my extended travel in 2014-2015 (chronologically):
+
 - Denmark
 - Sweden
 - Norway
@@ -34,6 +35,7 @@ Countries I visited during my extended travel in 2014-2015 (chronologically):
 - Vietnam
 
 Other Countries I been to over my lifetime (alphabetically):
+
 - Canada (Toronto)
 - China (Beijing, Shanghai, Xi'an, Suzhou, Peking, Macau)
 - Korea (Seoul)
@@ -41,6 +43,7 @@ Other Countries I been to over my lifetime (alphabetically):
 - Malaysia (Kuala Lumpur, Genting)
 
 U.S. States over my lifetime (alphabetically):
+
 - California
 - Florida
 - Hawaii
