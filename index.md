@@ -21,24 +21,24 @@ keywords: richardvan, bruinvan
 <tr>
   <td class="left">
     <a href="assets/pics/richardvan_2015-03-02.JPG">
-        <img src="assets/pics/richardvan_2015-03-02_small.jpg" alt="Richard Van" title="Red Rock Canyon, Las Vegas, Nevada - March 2016"/>
+        <img src="assets/pics/richardvan_2015-03-02_small.jpg" alt="Richard Van" title="Red Rock Canyon, Las Vegas, Nevada - 2016"/>
     </a>
   </td>
   <td class="right">
-     <a href="assets/pics/sinpalScreenshot.jpg">
-        <img src="assets/pics/sinpalScreenshot_small.jpg" alt="Richard Van" title="SinPal front page - November 2015"/>
+     <a href="assets/pics/richardvan_2014-11-08.jpg">
+        <img src="assets/pics/richardvan_2014-11-08_small.jpg" alt="Richard Van" title="The Great Pyramid of Giza, Egypt 2014"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="assets/pics/richardvan_2015-03-20.jpg">
-        <img src="assets/pics/richardvan_2015-03-20_small.jpg" alt="Richard Van" title="Parent's hometown, Honggai, Vietnam - March 2015"/>
+        <img src="assets/pics/richardvan_2015-03-20_small.jpg" alt="Richard Van" title="Parent's hometown, Honggai, Vietnam - 2015"/>
     </a>
   </td>
   <td class="right">
      <a href="assets/pics/richardvan_2013-06-02.JPG">
-        <img src="assets/pics/richardvan_2013-06-02_small.JPG" alt="Richard Van" title="Koh Racha Yai, Thailand - June 2013"/>
+        <img src="assets/pics/richardvan_2013-06-02_small.JPG" alt="Richard Van" title="Koh Racha Yai, Thailand - 2013"/>
     </a>
   </td>
 </tr>

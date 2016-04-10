@@ -3,7 +3,7 @@ layout: page
 title: travel
 ---
 
-Countries I visited during my extended travel in 2014-2015 (chronologically):
+**Countries I visited during my extended trip in 2014-2015 (chronologically):**
 
 - Denmark
 - Sweden
@@ -34,7 +34,7 @@ Countries I visited during my extended travel in 2014-2015 (chronologically):
 - Thailand
 - Vietnam
 
-Other Countries I been to over my lifetime (alphabetically):
+**Other Countries I been to over my lifetime (alphabetically):**
 
 - Canada (Toronto)
 - China (Beijing, Shanghai, Xi'an, Suzhou, Peking, Macau)
@@ -42,7 +42,7 @@ Other Countries I been to over my lifetime (alphabetically):
 - Mexico (Tijuana)
 - Malaysia (Kuala Lumpur, Genting)
 
-U.S. States over my lifetime (alphabetically):
+**U.S. States over my lifetime (alphabetically):**
 
 - California
 - Florida
@@ -52,4 +52,13 @@ U.S. States over my lifetime (alphabetically):
 - Oregon
 - Washington
 - Washington D.C.
+
+
+---
+
+### Asia Trip 2013 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7ZERfEXP6C8
+" target="_blank"><img src="http://img.youtube.com/vi/7ZERfEXP6C8/0.jpg" 
+alt="Asia Trip 2013" width="240" height="180" border="10" /></a>
 

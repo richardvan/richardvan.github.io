@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Chains update
-description: Chainscc
+title: Chains.cc update
+description: Chainscc (aka daily routin)
 ---
 
 
 
 As of 3/31/16
+
 - iodine drink
 - [morning] pushups
 - morning ginseng
