@@ -31,6 +31,30 @@ Microsoft Word, Excel, and Powerpoint are productivity tools for the computer, I
 
 It's easy to file your own taxes, this product has served my well since 2011 with an intuitive interface and different tiers of offerings depending on your income/portfolio.
 
+
+### Programming Languages
+
+I have learned to varying degrees many programming languages over my lifetime. What you come to learn is that there are similiar core features such as (int,double,bool, arrays) you can expect to find in most widely used modern languages at all levels of the stack.  However, the semantics of how things work is different.  While I don't claim to be an expert in any of these programming languages, I have had experience with them.  Some more than others.
+
+
+
+
+
+Turbo C - My first exposure to coding was during a computer class in summer school during high school.  
+
+
+### Developer Programs and Tools
+
+#### <a name="current"></a>[Homebrew](http://brew.sh/) 
+
+Highly recommended package manager for OSX, beyond your typical shell (in the form of **Terminal** on the Mac) commands such as **ls**,**mkdir**,**cd**,**pwd**,**mv**,**rm**, you might want helpful commands like **wget**, TODO_more, 
+
+
+#### <a name="current"></a>[Jekyll](https://jekyllrb.com/) 
+
+Described as a Static Page Generator, this website is built from Jekyll.  Due to it's usefulness, I find myself immersed in technology more than ever before since I am writing about it now in the form of this blog.
+
+
 ---
 
 ### Software (I don't use anymore)
