@@ -27,8 +27,10 @@ description: Richard Van's projects
 
 
 ### College Projects (2006-2010)
+TODO_scanUploadFiles here
 
 - CS 31
 - CS 32
 - CS 174A and CS174C projects
+- etc.
 

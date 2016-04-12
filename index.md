@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Richard Van
+title: The Personal Website of Richard Van
 description: Richard Van Personal Website
 keywords: richardvan, bruinvan
 ---
