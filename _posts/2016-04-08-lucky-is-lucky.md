@@ -56,7 +56,7 @@ The doctor calls to tell me that the surgery went well and that he was able to r
 
 Post-op this is a picture of what was removed from Lucky's body.  Lucky's doctor was kind enough to send me this picture he had taken with his phone.  On the left is his spleen which has the more coarse texture while the tumor is on the right.
 
-![Lucky Mass]({{ site.url }}/assets/pics/dogs/lucky-mass.jpeg)
+![Lucky Mass]({{ site.url }}/assets/pics/dogs/lucky-mass.jpg)
 
 *(For reference, I was told that scalpel is 3-4 inches in size)*
 

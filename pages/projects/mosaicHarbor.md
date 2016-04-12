@@ -5,23 +5,11 @@ description: Using Google Spreadsheets and visualizations, allow user to input t
 ---
 ### Intro of what it is and what it's goal is
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+#### <a name="github"></a>[github](https://github.com/richardvan/richardvan.project.mosaicHarbor) 
+[live](http://www.richardvan.com/richardvan.project.mosaicHarbor/)
 
-An [R](http://w
-
----
-
-### TODO_link this to the real thing _ TODO - follow guide on project from kbro, tempalte it for easy future use
-
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-
-An [R](http://w
-
----
-
-### TODO_link this to the github code
-
-#### <a name="github"></a>[github](https://github.com/richardvan/richardvan.project.mosaicHarbor)
+The intent of this project is to create a web view which will allow the user to visualize their home utilities in a graph.  Leveraging some google apps apis, I am able to public update a spreadsheet and then this data is graphically displayed live on this site.
 
 
+TODO - be able to view the live version of website with an easy workflow to update it in my dev environment.  
 ---

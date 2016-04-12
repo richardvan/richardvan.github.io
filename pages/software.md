@@ -12,7 +12,9 @@ This is a list of software I commonly find myself using.  Hopefully you'll find 
 
 There are many cloud storage solutions out there but I like Google Drive because of it's pricing coupled with its external developer APIs. It's $2/month to store 100GB of data in the cloud.  I remember when I was once conned into buying a 32MB Compact Flash card for $100 at one of those privately owned camera stores a block away from Wall St. back in 2001.
 
-TODO - Terminal (talk about switching from Windows to Mac)
+#### <a name="current"></a>[Dropbox](https://dropbox.com)
+
+I started using this in 2008 as it was one of the more popular cloud file store that also had a nice intuitive UI.  I current dedicate dropbox as the first place my photos (taken on my phone) are backed up to.  This is done automatically in the background.  It's very convenient just be able to just log into dropbox and view your images on a browser instead of your small phone screen.
 
 #### <a name="current"></a>[Evernote](https://evernote.com) [Plus Membership, $24.99/yr]
 
@@ -58,6 +60,9 @@ Described as a Static Page Generator, this website is built from Jekyll.  Due to
 ---
 
 ### Software (I don't use anymore)
+
+
+TODO - Terminal (talk about switching from Windows to Mac)
 
 Technological shifts (in the world and in my realm of usage) come into when I thought of maintaining this list.  During my adolescences in the 1990's, I constantly interacted with technology, the difference then was that for a decade or so it wasn't connected to the internet like it is nowadays.  When I say connected, I am referring to the blazing fast speeds seen with streaming and the transfer of huge amounts of data online.
 

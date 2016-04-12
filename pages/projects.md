@@ -12,19 +12,23 @@ description: Richard Van's projects
     </div>
 </div>
 
-### Projects (open-source to learn from)
+### Projects 
 
 #### Home Utilities Tracking with Graphs
 - Mosaic Harbor
   \[[info](projects/mosaicHarbor.html) |
-  [live](projects/mosaicHarbor/live)\]
+  [live](http://www.richardvan.com/richardvan.project.mosaicHarbor/)\]
+  
+<!--  it isn't hosted on this website, the www.richardvan.com url resolves from github.richardvan.io, the rest is the gh-pages location -->
 
 
-### Projects (I want to show off, but making the source code private)
+### Projects 
+(I want to show off, but making the source code private)
 
-#### TODO_findMoreProjectsToHostForFree
 
 ### College Projects (2006-2010)
 
-#### TODO_findOldCollegeProjects
+- CS 31
+- CS 32
+- CS 174A and CS174C projects
 
