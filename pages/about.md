@@ -1,10 +1,10 @@
 ---
 layout: page
 title: about
-description: Richard Van Personal Website
+description: who is Richard Van?
 ---
 
-Richard Van is a well-rounded individual with experience in attempting his own startup, traveling the world, and working as a developer for five years.  He enjoys exploring new technologies and leveraging code to do cool things.
+Richard Van is a developer who is well-rounded with experience in attempting his own startup, traveling the world, and working in industry for five years.  He enjoys exploring new technologies and leveraging code to do cool things.
 
 [文](https://en.wiktionary.org/wiki/%E6%96%87)[英](https://en.wiktionary.org/wiki/%E8%8B%B1)[康](https://en.wiktionary.org/wiki/%E6%96%87) is his Chinese name. The pinyin translation is Wen Ying Kang. The Vietnamese translation is [Văn](https://en.wiktionary.org/wiki/v%C4%83n#Vietnamese) [Anh](https://en.wiktionary.org/wiki/Anh) [Khăng](http://meaningoffirstname.blogspot.com/2009/08/khang-name-meanings-of-khang-baby-names.html). He speaks Cantonese at home with his family and is commonly referred to as Hong.
 
@@ -12,7 +12,9 @@ In his early life, he was born in Reno, Nevada where he attended public school f
 
 He received a B.S. in [Computer Science](http://www.cs.ucla.edu/) in 2010, from the University of California, Los Angeles; and a Master's of [Business Administration ](http://www.unr.edu/degrees/business-administration/mba) in 2013, from the University of Nevada, Reno.
 
-He was formerly a software engineer at [International Game Technology](https://www.igt.com/) with five years of work experience,  full-time (June 2010 to May 2014), and two internships (Summer 2008 and Summer 2009) where he worked on in-house casino software and mobile apps.
+He was formerly a software engineer at [International Game Technology](https://www.igt.com/) with five years of work experience,  full-time (June 2010 to May 2014), and two internships (Summer 2008 and Summer 2009) where he worked on in-house casino software and mobile apps. 
+
+During his time at IGT, he took night classes at the local university to earn his MBA.  The MBA has served him to better understand corporate culture and the financial side of life.
 
 In 2014 he gracefully quit his job and did some long-term traveling to learn more about the world and himself, he traveled through over twenty [countries](http://richardvan.com/pages/travel.html) for six months.
 

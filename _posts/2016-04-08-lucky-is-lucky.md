@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lucky is Lucky
-description: kucky description
+description: an account of my experience with bringing my dog to the animal hospital to get surgery
 ---
 
 The words that both my dad and brother uttered after we found out the great news that Lucky's mass was benign.  Or not cancer which is how I've interpret it.  Lucky recently had a tumor the size of a grapefruit removed from his body.  This is the experience and story I wanted to reflect in this blog post for myself and to hopefully educate others as well.
@@ -68,13 +68,17 @@ Lucky was discharged after the vet bill was paid and we were given thorough expl
 
 *(Lucky back at home, energy level 2/10)*
 
-The results of the histopathology (five days after the surgery)
+**The results of the histopathology (five days after the surgery)**
 
-Benign. The mass is not cancer which was the initial assumption that made all positive feelings go downhill.  However, from this early morning phone call I was very relieved and able to sleep better now.
+Benign. The mass is not cancer which was the initial assumption that made all positive feelings go downhill.  However, from this early morning phone call I was very relieved and able to sleep better.
+
+**Two weeks after surgery**
+
+The following up appointment for Lucky following operation finalized this success story.  Lucky's vet removed his sutures and said that the surgical cut is nearly fully healed and that his gums are looking healthy.  Lucky is free to be rid of his cone unless you starts really licking at the healed wound.
 
 **So what was it? What happened?**
 
-After consulting the doctor, we believe that the benign mass was a massive blood clot.  At some point over 3 months earlier the clot started to form  next to his spleen.  The spleens had a lot of blood going through it at any given time which added to it's growth.  It was undetected by both doctors that examined him and gave him his vaccinations.  In retrospect, it added some bulk to Lucky's body that made him look a little chubby. Now with the mass gone, he has a much more lean posture.
+After consulting the doctor, we believe that the benign mass was a massive blood clot.  At some point over 3 months earlier the clot started to form next to his spleen.  The spleens had a lot of blood going through it at any given time which added to it's growth.  It was undetected by both doctors that examined him and gave him his vaccinations.  In retrospect, it added some bulk to Lucky's body that made him look a little chubby. Now with the mass gone, he has a much more lean posture.
 
 The mass ruptured which caused led to increased pressure on Lucky's lungs causing him to vomit and then later it was leaking blood into his bladder which was cause for his increasingly discolored urine.
 

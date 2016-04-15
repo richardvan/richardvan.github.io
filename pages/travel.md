@@ -3,6 +3,8 @@ layout: page
 title: travel
 ---
 
+TODO - blog post "Richard's top ten tips to better travel"
+
 **Countries I visited during my extended trip in 2014-2015 (chronologically):**
 
 - Denmark
