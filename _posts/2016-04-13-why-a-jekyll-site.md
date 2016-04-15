@@ -1,12 +1,25 @@
 ---
 layout: page
-title: Jekyll Technology
+title: Why a Jekyll Website
 description: my experience using jekyll to create this blog and to help me refresh my coding knowledge by writing it down.
 ---
 
-TODO - set up one more project, then write about this.
+So far the most significant thing Jekyll has opened up my eyes to is how much more productive and quicker my workflow is.
 
 
+
+
+The workflow to update content to your blog (Jekyll):
+
+The workflow to update content to your blog (Wordpress):
+
+The workflow to update content to your website (using FTP):
+
+The workflow to update content to your website (using cPanel):
+
+
+
+TODO - set up one more project, then write tutorial about setting up jekyll blog.
 ### Links:
 
 - http://kbroman.org/simple_site/pages/project_site.html

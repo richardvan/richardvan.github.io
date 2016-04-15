@@ -22,8 +22,8 @@ description: Richard Van's projects
 <!--  it isn't hosted on this website, the www.richardvan.com url resolves from github.richardvan.io, the rest is the gh-pages location -->
 
 
-### Projects 
-(I want to show off, but making the source code private)
+### Past Projects 
+TODO_findAndUpload
 
 
 ### College Projects (2006-2010)

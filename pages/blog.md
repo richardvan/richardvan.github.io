@@ -12,3 +12,11 @@ description: The Blog of Richard Van
     </li>
   {% endfor %}
 </ul>
+
+
+
+### Ideas to write about
+
+- My experience of quitting my job and traveling the world
+- My experience unplugging from technology while traveling
+- My experience with Windows -> Mac

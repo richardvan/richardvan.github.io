@@ -3,7 +3,9 @@ layout: page
 title: travel
 ---
 
-TODO - blog post "Richard's top ten tips to better travel"
+Traveling is an important aspect of my life.  I have had the opportunity to visit and explore many different countries and learn about similiar and different people from around the world can be.  I keep this list for myself to reflect on and also to inspire others to check out new places.
+
+Check out my [top travel tips]({% post_url 2016-04-11-top-travel-tips %}).
 
 **Countries I visited during my extended trip in 2014-2015 (chronologically):**
 
