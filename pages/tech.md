@@ -24,8 +24,10 @@ I started using this in 2015 and it's been awesome able to store stuff I've read
 
 #### <a name="current"></a>[Brackets](http://brackets.io/) 
 
-An open-source file editor developed by Adobe. I started using this in 2014 as my default editor.  It provides the power and flexibility such as powerful code editors like Microsoft Visual Studios and even XCode. 
+An open-source file editor developed by Adobe. I started using this in 2014 as my default editor.  It's lightweight and has a good feel while being support other extensions as well, below are the onces I like and would recommend
 
+- https://github.com/ivogabe/Brackets-Icons
+- https://github.com/crot4lus/Brackets---Tabs
 
 #### <a name="current"></a>[Microsoft Office](https://products.office.com) 
 

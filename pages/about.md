@@ -6,7 +6,7 @@ description: who is Richard Van?
 
 Richard Van is a developer who is well-rounded with experience in attempting his own startup, traveling the world, and working in industry for five years.  He enjoys exploring new technologies and leveraging code to do cool things.
 
-[文](https://en.wiktionary.org/wiki/%E6%96%87)[英](https://en.wiktionary.org/wiki/%E8%8B%B1)[康](https://en.wiktionary.org/wiki/%E6%96%87) is his Chinese name. The pinyin translation is Wen Ying Kang. The Vietnamese translation is [Văn](https://en.wiktionary.org/wiki/v%C4%83n#Vietnamese) [Anh](https://en.wiktionary.org/wiki/Anh) [Khăng](http://meaningoffirstname.blogspot.com/2009/08/khang-name-meanings-of-khang-baby-names.html). He speaks Cantonese at home with his family and is commonly referred to as Hong.
+[文](https://en.wiktionary.org/wiki/%E6%96%87)[英](https://en.wiktionary.org/wiki/%E8%8B%B1)[康](https://en.wiktionary.org/wiki/%E6%96%87) is his Chinese name. The Cantonese translation is Man Jing Hong; The Mandarin translation is Wen Ying Kang; The Vietnamese translation is [Văn](https://en.wiktionary.org/wiki/v%C4%83n#Vietnamese) [Anh](https://en.wiktionary.org/wiki/Anh) [Khăng](http://meaningoffirstname.blogspot.com/2009/08/khang-name-meanings-of-khang-baby-names.html). He speaks Cantonese at home with his family and is commonly referred to as Hong.
 
 In his early life, he was born in Reno, Nevada where he attended public school for K-12 education.
 

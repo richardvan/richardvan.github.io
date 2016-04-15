@@ -18,6 +18,16 @@ Took Lucky on a walk before the rain/sunshine sporadically came and went. Made L
 
 Read up on beards and am considering a year length no haircut so I can tie it up one day for that look. Watched Election II. Did more research on famous people for my blog.  Researched my Chinese name.
 
+### 4/10/2016
+This morning woke up around 9 and did the usual routine including reading a quick blink on how champions think optimistically each day and work towards their goals.
+
+Went to Walmart and KTP after to pick up morning yogurt elixir stuff and KTP to get some marinated pork, and kimchi that was $1 a pound but huge napa cuts.
+
+Took Lucky on a walk around the neighborhood and let him go all and he was so happy. Now he lifts his foot up to pee and also he barks when he is maximum level of excitement.
+
+
+Read up on beards and am considering a year length no haircut so I can tie it up one day for that look. Watched Election II. Did more research on famous people for my blog.  Researched my Chinese name.
+
 ## 4/12/2016
 
 Woke up early and fed the dogs then drove with Lucky to JG house where she, Desi, and I went to Red Rock Canyon together.  Had a good walk at Pine Creek Trail, Lucky was doing really well and it was a good day.  After that we home and prepared for JG BBQ for her bday. Jino, Mark, Sinead, Eric, Desi, Felipe, and Channing were there.  It was good cooking charcoal chicken and tri tip for them.  We ate, chilled, blazed, and then everyone went home.  Found out Sheryl had moved out that day, Mark staying until end of the month, Jino and Tara going to move all at once.
