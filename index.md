@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Richard Van
+title: The Personal Website of Richard Van
 description: Richard Van Personal Website
 keywords: richardvan, bruinvan
 ---
@@ -8,7 +8,7 @@ keywords: richardvan, bruinvan
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="http://richardvanblog.wordpress.com">blog</a></li>
+          <li><a href="pages/blog.html">blog</a></li>
           <li><a href="https://www.linkedin.com/in/richardavan">linkedin</a></li>
           <li><a href="https://github.com/richardvan">github</a></li>
           <li><a href="{{ BASE_PATH }}/assets/RichardVanResume.pdf">resume</a></li>
@@ -52,10 +52,3 @@ keywords: richardvan, bruinvan
   </div>
 </div>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>

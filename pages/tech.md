@@ -1,18 +1,22 @@
 ---
 layout: page
-title: software
+title: tech
 description: Richard Van's software
 ---
 
-This is a list of software I commonly find myself using.  Hopefully you'll find a useful tool here.
+This is a list of technology I commonly find myself using along with a history of old technology I was exposed to. Technological shifts come into when I thought of maintaining this list. I constantly interacted with technology growing up and even today.  I wanted to see how things have changed over the years. The key difference between my adolescence and adulthood is the speed at which information is shared (i.e. the speed and availability of the internet).  
+
+Hopefully you'll find a useful tool here or something new to try out.
 
 --- 
 
 #### <a name="current"></a>[Google Drive](https://www.google.com/drive/) [100GB/mo for $2]
 
-There are many cloud storage solutions out there but I like Google Drive because of it's pricing coupled with its external developer APIs. It's $2/month to store 100GB of data in the cloud.  I remember when I was once conned into buying a 32MB Compact Flash card for $100 at one of those privately owned camera stores a block away from Wall St. back in 2001.
+There are many cloud storage solutions out there but I like Google Drive because of it's pricing coupled with its external developer APIs. It's $2/month to store 100GB of data in the cloud; or free for an account up to 15GB. I remember when I was once conned into buying a 32MB Compact Flash card for $100 at one of those privately owned camera stores a block away from Wall St. back in 2001. 100GB is plenty of data and sticking to a hard limit forces me to organize and distill what new files are saved.  
 
-TODO - Terminal (talk about switching from Windows to Mac)
+#### <a name="current"></a>[Dropbox](https://dropbox.com)
+
+I started using this in 2008 as it was one of the more popular cloud file store that also had a nice intuitive UI.  I current dedicate dropbox as the first place my photos (taken on my phone) are backed up to.  This is done automatically in the background.  It's very convenient just be able to just log into dropbox and view your images on a browser instead of your small phone screen.
 
 #### <a name="current"></a>[Evernote](https://evernote.com) [Plus Membership, $24.99/yr]
 
@@ -33,11 +37,37 @@ Microsoft Word, Excel, and Powerpoint are productivity tools for the computer, I
 
 It's easy to file your own taxes, this product has served my well since 2011 with an intuitive interface and different tiers of offerings depending on your income/portfolio.
 
+
+### Programming Languages
+
+I have learned many programming languages to varying degrees over my lifetime. What you come to learn is that there are similiar core features such as (int,double,bool,arrays) you can expect to find in most widely used modern languages at all levels of the stack.  However, the semantics of how things work is entirely different.  While I don't claim to be an expert in any of these programming languages, I have had experience with them.  Some more than others.
+
+
+
+
+[Turbo C](https://en.wikipedia.org/wiki/Borland_Turbo_C) - My first exposure to programming was during a computer class in summer school during high school.  We experimented around with coding using if-else statements to take in some basic input and do arithmetic on it.  This was the starting point of my interest in code.
+
+
+### Developer Programs and Tools
+
+#### <a name="current"></a>[Homebrew](http://brew.sh/) 
+
+Highly recommended package manager for OSX, beyond your typical shell (in the form of **Terminal** on the Mac) commands such as **ls**,**mkdir**,**cd**,**pwd**,**mv**,**rm**, you might want helpful commands like **wget**, TODO_more, 
+
+
+#### <a name="current"></a>[Jekyll](https://jekyllrb.com/) 
+
+Described as a Static Page Generator, this website is built from Jekyll.  Due to it's usefulness, I find myself immersed in technology more than ever before since I am writing about it now in the form of this blog.
+
+
 ---
 
 ### Software (I don't use anymore)
 
-Technological shifts (in the world and in my realm of usage) come into when I thought of maintaining this list.  During my adolescences in the 1990's, I constantly interacted with technology, the difference then was that for a decade or so it wasn't connected to the internet like it is nowadays.  When I say connected, I am referring to the blazing fast speeds seen with streaming and the transfer of huge amounts of data online.
+
+TODO - Terminal (talk about switching from Windows to Mac)
+
+
 
 #### <a name="past"></a>[ReSharper](https://www.jetbrains.com/resharper/)
 
