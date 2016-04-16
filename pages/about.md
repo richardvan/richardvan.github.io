@@ -4,13 +4,14 @@ title: about
 description: who is Richard Van?
 ---
 
-Richard Van is a developer who is well-rounded with experience in attempting his own startup, traveling the world, and working in industry for five years.  He enjoys exploring new technologies and leveraging code to do cool things.
+Richard Van is a software developer, traveler, gamer, and occasional blogger who is well-rounded with experience in attempting his own startup, traveling through 29 countries over six months, and working in industry for five years.  He enjoys exploring new technologies and leveraging code to do cool things.
+
+He received a B.S. in [Computer Science](http://www.cs.ucla.edu/) in 2010, from the University of California, Los Angeles; and a Master's of [Business Administration ](http://www.unr.edu/degrees/business-administration/mba) in 2013, from the University of Nevada, Reno.
+
 
 [文](https://en.wiktionary.org/wiki/%E6%96%87)[英](https://en.wiktionary.org/wiki/%E8%8B%B1)[康](https://en.wiktionary.org/wiki/%E6%96%87) is his Chinese name. The Cantonese translation is Man Jing Hong; The Mandarin translation is Wen Ying Kang; The Vietnamese translation is [Văn](https://en.wiktionary.org/wiki/v%C4%83n#Vietnamese) [Anh](https://en.wiktionary.org/wiki/Anh) [Khăng](http://meaningoffirstname.blogspot.com/2009/08/khang-name-meanings-of-khang-baby-names.html). He speaks Cantonese at home with his family and is commonly referred to as Hong.
 
 In his early life, he was born in Reno, Nevada where he attended public school for K-12 education.
-
-He received a B.S. in [Computer Science](http://www.cs.ucla.edu/) in 2010, from the University of California, Los Angeles; and a Master's of [Business Administration ](http://www.unr.edu/degrees/business-administration/mba) in 2013, from the University of Nevada, Reno.
 
 He was formerly a software engineer at [International Game Technology](https://www.igt.com/) with five years of work experience,  full-time (June 2010 to May 2014), and two internships (Summer 2008 and Summer 2009) where he worked on in-house casino software and mobile apps. 
 
