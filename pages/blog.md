@@ -15,8 +15,9 @@ description: The Blog of Richard Van
 
 
 
+<!--
 ### Ideas to write about
 
 - My experience of quitting my job and traveling the world
 - My experience unplugging from technology while traveling
-- My experience with Windows -> Mac
+- My experience with Windows -> Mac-->

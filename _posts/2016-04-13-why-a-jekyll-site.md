@@ -10,21 +10,29 @@ So far the most significant thing Jekyll has opened up my eyes to is how much mo
 
 
 The workflow to update content to your blog (Jekyll):
+    - specify mine, but there are other options 
+        http://oli.jp/2011/github-pages-workflow/
+    - Add the following 2 lines to the [remote "origin"] section of .git/config:
+        `push = +refs/heads/master:refs/heads/gh-pages`
+        `push = +refs/heads/master:refs/heads/master`   
+    - setup info
+        - http://kbroman.org/simple_site/pages/project_site.html
+        - http://kbroman.org/simple_site/pages/local_test.html
+        - https://jekyllrb.com/docs/pages/
+        ### For Projects hosted on github, keeping the master branch in sync with ghpages here
 
+
+Every time you push it will automatically push master to gh-pages as well.
 The workflow to update content to your blog (Wordpress):
 
 The workflow to update content to your website (using FTP):
 
 The workflow to update content to your website (using cPanel):
 
-
-
 TODO - set up one more project, then write tutorial about setting up jekyll blog.
-### Links:
 
-- http://kbroman.org/simple_site/pages/project_site.html
-- http://kbroman.org/simple_site/pages/local_test.html
-- https://jekyllrb.com/docs/pages/
+
+### Links:
 
 Good readings, mainly this one from the creator: 
 
@@ -36,14 +44,7 @@ Good readings, mainly this one from the creator:
 http://cloudcannon.com/jekyll/2015/03/04/5-reasons-you-should-use-jekyll.html
 http://ben.balter.com/2015/02/20/jekyll-collections/
 
-### For Projects hosted on github, keeping the master branch in sync with ghpages here
-Add the following 2 lines to the [remote "origin"] section of .git/config:
 
-    `push = +refs/heads/master:refs/heads/gh-pages`
-
-    `push = +refs/heads/master:refs/heads/master`
-
-Every time you push it will automatically push master to gh-pages as well.
 
 #### the different parts of Jekyll 
 
