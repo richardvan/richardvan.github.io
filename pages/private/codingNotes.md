@@ -34,6 +34,15 @@ description: to learn
 2. Make it work RIGHT - given inputs and expected outputs should work and be tested
 3. THEN look pretty - refactoring code, nice comments,
 
+
+### Random
+
+Debugging someone else's code is harder than writing your own code, readable code is better than complex code without comments.  10 lines combined into one with obscure input pattern is bad.
+
+Don't Reinvent the Wheel, learn how to use other libraries/frameworks/solutions for common problems.  Resources like stackoverflow, node modules, and other tech tools are handy to know.
+
+Embrace abstraction - software engineering is all about abstraction, breaking things up into small individual pieces than worrying about *implementation* as part of the finer details.  Having a high level understanding is they point.
+
 #### Useful links:
 http://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161
 https://www.vikingcodeschool.com/software-engineering-basics/basic-principles-of-software-engineering
@@ -88,3 +97,4 @@ Partitioning - Splitting up a large monolithic database into multiple smaller da
 Clustering - Using multiple application servers to access the same database. Used for computation intensive, parallelized, analytical applications that work on non volatile data.
 
 Sharding - Splitting up a large table of data horizontally i.e. row-wise. A table containing 100s of millions of rows may be split into multiple tables containing 1 million rows each. Each of the tables resulting from the split will be placed into a separate database/server. Sharding is done to spread load and improve access speed. Facebook/twitter tables fit into this category.
+
