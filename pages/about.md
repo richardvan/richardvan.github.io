@@ -25,8 +25,7 @@ Outside of his professional career, he also has work experience in both customer
 
 Leisurely he enjoys reading, exercising, cooking, walking his dog, watching sports, snowboarding/skiing, scuba diving, tinkering with the [arduino](https://www.arduino.cc/), and listening to music.
 
-He currently lives in Las Vegas and enjoys being around family, friends, and his dogs. He is currently open to job opportunities as a software developer ([resume ![resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/RichardVanResume.pdf)).
-
+He currently lives in Las Vegas and enjoys being around family, friends, and his dogs.
 
 
 ---
