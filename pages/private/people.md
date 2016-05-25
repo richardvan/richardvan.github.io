@@ -5,7 +5,7 @@ description: Current and Historical Figures - research about them
 ---
 ### Historical
 
-TODO - Confuscius, Genghis Khan, Kareem Abdul Jabbar, Leung Kai Checuk, John Harbaugh, Ray Lewis, Brett Farve, Djikstra
+TODO - Confuscius, Genghis Khan, Kareem Abdul Jabbar, Leung Kai Checuk, John Harbaugh, Ray Lewis, Brett Farve, Djikstra, Leung Kai Check, Stephen Chow
 
 #### John Wooden - [[wiki](https://en.wikipedia.org/wiki/John_Wooden) | [website](http://www.coachwooden.com/)]
 

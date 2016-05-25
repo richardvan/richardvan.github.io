@@ -63,3 +63,24 @@ I am strongly considering taking summer school classes so I can get myself back 
 Since the last update I have spoken to Mom, Dad, Chi, and Bang about my decision to go back to school to take more biology and chemistry classes.  The plan would be to obtain either another Bachelor's, Post Bacc, or satisfy the required classes for my application to Veterinary school.  At this point I am will to pay for my classes and everything else using my savings and dipping into my Roth IRA.  If I am blessed to be given the opportunity to attend a school, then I will consult the parents for tuitions or consider a federal loan.
 
 I have felt a lot more confident about my body and self image since I have been getting pretty good compliments with regards to my weight not only from Mom and Dad but also Mark, Jino, and Tara as well.  Also as I experiement with the early stages of a hairstyle for the Man Bun with a beard, things seem to be going pretty well.  I have been making myself wake up earlier and earlier.  I plan to try and get the most out of my day before it hits 8AM or even 11AM, likely times for when class starts.
+
+5/8/2016
+
+I just submitted my online application to volunteer at the Las Vegas Humane Society and also RSVP'd for the orientation meeting on 5/21.  I have been holding off on doing this because of what I think it will lead to.  Many opportunities and stimulation of my senses in new things.  It's a couple days before my birthday but i'm more forward looking to the start of summer term where I will be taking university level biology and chemistry at UNLV.  Oanh also randomly send my text last night, she's back at her parent's place after traveling and awaiting a return to grad school. 
+
+Today I woke up at 6:45am, worked out, took Lucky on a walk/run at 8am which was really nice outside.  Also did laundry, cleaned my restroom+, and my car.  It's about 3pm as i'm writing this and I am feeling tired but I want my body to get back into reality of moving and working.
+
+5/14/2016
+
+Writing this after I complete my daily 5 word GRE vocabulary learning that I have been doing consistently for about a week now.  This is in addition to waking up early around 6-7 which has allowed me to do more stuff in the morning like enjoy my breakfast, walk Lucky (and Gizmo), workout, and swim.  
+
+The last two days my family, friends, and I celebrated my 28th birthday.  On Thursday we went to Dim Sum for lunch at Hong Kong Garden Dim Sum place, at night we went to Gen.  Yesterday we spend the first half of the day with Helen (and Mike, and Daniel) at the Fashion Show Mall were we caught up.  We also had a BBQ last night where we roasted some chicken and weak flank steak.  It was really nice sitting in the backyard patio area of Mosaic Harbor and I even appreciate the gesture when a cake was brought out for me and everyone sang The Happy Birthday song. Gifts I got included a book holder using a Katana Knife (from Chi family).
+
+Personally, at this point in my life I have more and more committed to the decision of going back to school (via UNLV Summer Term II 2016) and starting with basic Chemistry and Biology classes.  I talked to Helen about my ambitions and she told me it would be a long journey but it's definitely one that I feel is being further solidified as I tell more people.  I rehashed my plans to Jino and Tara including volunteering the Las Vegas Humane Society.
+
+5/20/2016
+
+Tomorrow I will be going to the LV Humane Society for orientation.  For the past couple of weeks I have been working out every day including my kettlebell lifts.  I also walk Lucky at least once a day and started smoothie drinks with fresh fruits.  I have also been looking up five new GRE vocab words daily.  It is a different lifestyle but I am enjoying the different process of putting myself out of my comfort zone. 
+
+I am considering a Top Knot hairstyle cut too.  
+
