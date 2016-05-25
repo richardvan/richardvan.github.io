@@ -609,3 +609,36 @@ The once all blue conservative can betray liberal leanings
 to be negligent in one's duty
 
 Don't be remiss as vocabulary scholars by forgetting the word remiss.
+
+
+**Restive (adj.)**
+
+means restless - describes people and groups of people
+
+The crowd grew restive as the comedian's opening jokes fell flat.
+
+
+**Repine (v.)**
+
+to complain or fret over something, -pine means to yearn for
+
+Standing forlornly by the window, she repined for her lost love.
+
+**Remonstrate (v.)**
+
+To make objections while pleading
+
+The mother of the kidnapped victims remonstrated to the terrorist to release their children, claiming that the detention violated human rights
+
+**Alacrity (n.)**
+
+eager willingness to do something
+
+To better learn GRE vocab, going into review with alacrity is the key just like working out physically
+
+**Prosaic (adj.)**
+
+dull and lacking imagination, usually an inanimate object - think of prose, which is the opposite of poetry, that is creative and beautiful.
+
+
+

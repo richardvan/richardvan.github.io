@@ -84,3 +84,6 @@ Tomorrow I will be going to the LV Humane Society for orientation.  For the past
 
 I am considering a Top Knot hairstyle cut too.  
 
+5/25/2016
+
+Heading back to Reno today with Mom and Dad, plan to help Chi most of the time with anything banquet room related while sprinkling some catch up with friends and family.  Coming back before my UNLV summer term, there will be a lot to do. Today I worke up a little before
