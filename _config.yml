@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock", "node_modules", "gulpfile.js"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
@@ -13,7 +13,7 @@ author :
   name : Richard Van
   email : vanrichard@gmail.com
   github : richardvan
-  twitter : richardvan25
+  twitter : nil
   feedburner : nil
 
 production_url : http://richardvan.github.io

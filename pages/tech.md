@@ -59,10 +59,20 @@ An open-source file editor developed by Adobe. I started using this in 2014 as m
 
 Highly recommended package manager for OSX, beyond your typical shell (in the form of **Terminal** on the Mac) commands such as **ls**,**mkdir**,**cd**,**pwd**,**mv**,**rm**, you might want helpful commands like **wget**, TODO_more, 
 
+
+
 #### <a name="current"></a>[Jekyll](https://jekyllrb.com/) 
 
-Described as a Static Page Generator, this website is built from Jekyll.  Due to it's usefulness, I find myself immersed in technology more than ever before since I am writing about it now in the form of this blog.
+Built in the Ruby on Rails framework. A blog-aware static page Generator, this website is built from Jekyll.  Due to it's usefulness, I find myself immersed in technology more than ever before since I am writing about it now in the form of this blog.
 
+#### <a name="current"></a>[Node Framework](https://nodejs.org/en/) 
+
+Javascript ecosystem that has allowed for full stack development. Probably the most useful feature is the NPM ([node package manager](https://www.npmjs.com/)) which comes with many community supported libraries with useful functionality support the "don't re-invent the wheel" philosophy
+
+- [express](http://expressjs.com/)
+- [express generator](https://expressjs.com/en/starter/generator.html)
+- [browserify](http://browserify.org/)
+- [gulp](http://gulpjs.com/)
 
 ---
 

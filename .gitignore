@@ -1,3 +1,4 @@
 _site
 assets/bigpublpics/Orig/
 *md.orig
+node_modules/
