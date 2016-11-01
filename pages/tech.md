@@ -6,7 +6,7 @@ description: Richard Van's software
 
 This is a list of software, websites, and tools I commonly find myself using. Technological shifts come into when I thought of maintaining this page. I constantly interacted with technology growing up and even today.  I wanted to see how things have changed over the years. The key difference between my adolescence and adulthood is the speed at which information is shared (i.e. the speed and availability of the internet).
 
-Hopefully you'll find a useful tool here or something new to try out. This is not an exhaustive list.
+Hopefully you'll find a useful tool here or something new to try out. 
 
 ---
 
@@ -50,7 +50,10 @@ These are developer tools that I find add a lot of value to how I set up my work
 An open-source file editor developed by Adobe. I started using this in 2014 as my default editor.  It's lightweight and has a good feel while being support other extensions as well, below are the onces I like and would recommend
 
 - [Brackets Icons](https://github.com/ivogabe/Brackets-Icons)
-- [Brackets Tabs](https://github.com/crot4lus/Brackets---Tabs)
+- [Brackets Working Tabs](https://github.com/demonmhon/brackets-working-file-tabs)
+- [Show Whitespaces](https://github.com/DennisKehrig/brackets-show-whitespace)
+- [Jade Brackets](https://github.com/ForbesLindesay/jade-brackets)
+- [Theme - Brackets Github Octacat](https://github.com/diogofilipee/brackets-github-octocat)
 
 #### <a name="current"></a>[Homebrew](http://brew.sh/) 
 
