@@ -2,4 +2,4 @@
 
 terminal > gulp 
 
-See [richardvan.com](http://www.richardvan.com).
+See [www.richardvan.com](http://www.richardvan.com).

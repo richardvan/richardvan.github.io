@@ -15,18 +15,17 @@ description: Richard Van's projects
 ### Projects 
 
 
-#### Learn Biology from Root Words
-- Learn Biology from Root Words
-  \[[info](projects/learnBiologyFromRoot.html) |
-  [live](http://www.richardvan.com/richardvan.project.learnBiologyFromRoot/)\]
-  
-<!--  it isn't hosted on this website, the www.richardvan.com url resolves from github.richardvan.io, the rest is the gh-pages location -->
+#### Learn Biology from Phylogeny - NodeJS project using BioJS/Phylocanvas
+- Running in Heroku
+  \[[live](http://www.richardvan.com/richardvan.project.learnBiologyFromRoot/)\]
+	
+#### Learn Biology from Root Words - NodeJS project
+- Running in Heroku
+  \[[live](https://richardvan-learn-biology-roots.herokuapp.com/)\]
 
-
-#### Home Utilities Tracking with Graphs
-- Mosaic Harbor
-  \[[info](projects/mosaicHarbor.html) |
-  [live](http://www.richardvan.com/richardvan.project.mosaicHarbor/)\]
+#### Home Utilities Tracking with Graphs - Github Pages Project
+- Running Locally
+  \[[live](http://www.richardvan.com/richardvan.project.mosaicHarbor/)\]
   
 <!--  it isn't hosted on this website, the www.richardvan.com url resolves from github.richardvan.io, the rest is the gh-pages location -->
 
