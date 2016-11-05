@@ -17,7 +17,7 @@ description: Richard Van's projects
 
 #### Learn Biology from Phylogeny - NodeJS project using BioJS/Phylocanvas
 - Running in Heroku
-  \[[live](http://www.richardvan.com/richardvan.project.learnBiologyFromRoot/)\]
+  \[[live](https://tranquil-lowlands-67741.herokuapp.com/)\]
 	
 #### Learn Biology from Root Words - NodeJS project
 - Running in Heroku
