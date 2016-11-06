@@ -4,41 +4,52 @@ title: projects
 description: Richard Van's projects
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="https://github.com/richardvan">github</a></li>
-        </ul>
-    </div>
-</div>
+This is a few of the projects I have worked on over the years.
 
-### Projects 
+---
 
+### Learning Experiences
 
-#### Learn Biology from Phylogeny - NodeJS project using BioJS/Phylocanvas
-- Running in Heroku
+#### Learn Biology from Phylogeny
+- NodeJS/Express/BioJS/Phylocanvas
   \[[live](https://tranquil-lowlands-67741.herokuapp.com/)\]
 	
-#### Learn Biology from Root Words - NodeJS project
-- Running in Heroku
+#### Learn Biology from Root Words
+- NodeJS/Express
   \[[live](https://richardvan-learn-biology-roots.herokuapp.com/)\]
 
-#### Home Utilities Tracking with Graphs - Github Pages Project
-- Running Locally
+#### Home Utilities Graphs
+- Github Pages
   \[[live](http://www.richardvan.com/richardvan.project.mosaicHarbor/)\]
+
+#### SinPal
+- Front-end: HTML5/CSS/Javascript/Bootstrap/Handlebars
+- Back-end: NodeJS/Redis/RabbitMQ in Heroku ecosystem
+  \[[live](http://www.sinpal.com/)\]
+
+---
+
+### Freelance
+
+#### Silver Chopsticks (Chinese and Vietnamese Restaurant)
+- Bootstrap
+  \[[live](http://www.silverchopsticksreno.com/)\]
+	
+#### The Wok (Chinese and Japanese Restaurant)
+- Wordpress
+  \[[live](http://thewokfallon.com/)\]
+	
+#### Pegasus (Aviation Services)
+- Adobe Flash
+  \[[live](http://pegasusir.com/)\]
+	
   
 <!--  it isn't hosted on this website, the www.richardvan.com url resolves from github.richardvan.io, the rest is the gh-pages location -->
-
-
 
 <!--
 
 ### Past Projects 
-TODO_findAndUpload
-
-
-### College Projects (2006-2010)
-TODO_scanUploadFiles here
+TODO_findAndUpload:
 
 - CS 31
 - CS 32

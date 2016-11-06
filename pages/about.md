@@ -4,7 +4,7 @@ title: about
 description: who is Richard Van?
 ---
 
-Richard Van is a student, programmer, and occasional nomad with numerous travel adventures. He enjoys continually learning, exploring new technologies, and leveraging code to do cool things.  He also is interested in learning more about the world from the scientific perspective of biology, chemistry, and medicine.
+Richard Van is a student, programmer, and an occasional nomad with numerous travel adventures. He enjoys exploring new technologies and leveraging code to do cool things.  He also is interested in learning more about the world from the scientific perspective of biology, chemistry, and medicine.
 
 He received a B.S. in [Computer Science](http://www.cs.ucla.edu/), from the University of California, Los Angeles; and a Master's of [Business Administration ](http://www.unr.edu/degrees/business-administration/mba), from the University of Nevada, Reno.
 
@@ -14,7 +14,7 @@ He was formerly a software engineer at [International Game Technology](https://w
 
 Outside of his professional career, he also has work experience in both customer service and construction projects.  His first job as a teenager was a dishwasher for the family restaurant business where he learned to work as a cashier, bus boy, and waiter;  From time to time, he finds himself working with his father on a construction projects centering around renovations of commercial and residential properties.
 
-Leisurely he enjoys coding, reading, exercising, cooking, volunteering at the animal shelter, watching sports, snowboarding/skiing, scuba diving, tinkering with the [arduino](https://www.arduino.cc/), and listening to music.
+Leisurely he enjoys volunteering, reading, exercising, cooking, watching sports, snowboarding/skiing, scuba diving, tinkering with the [arduino](https://www.arduino.cc/), and listening to music.
 
 [文](https://en.wiktionary.org/wiki/%E6%96%87)[英](https://en.wiktionary.org/wiki/%E8%8B%B1)[康](https://en.wiktionary.org/wiki/%E6%96%87) is his Chinese name. The Cantonese translation is Man Jing Hong; The Mandarin translation is Wen Ying Kang; The Vietnamese translation is [Văn](https://en.wiktionary.org/wiki/v%C4%83n#Vietnamese) [Anh](https://en.wiktionary.org/wiki/Anh) [Khăng](http://meaningoffirstname.blogspot.com/2009/08/khang-name-meanings-of-khang-baby-names.html). He speaks Cantonese at home with his family and is commonly referred to as Hong.
 
