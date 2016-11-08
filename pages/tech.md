@@ -34,6 +34,10 @@ Online forum for discussion of almost anything
 
 Online forum that provides good answers to questions about life, career, and other random things.
 
+#### <a name="current"></a>[Blinkist](https://www.blinkist.com/en/)
+
+Web app that provides "blinks" which are condensed summaries of books in a 15-minute read format to get the gist of things. 
+
 #### <a name="current"></a>[9gag](http://9gag.com/)
 
 A website full of [memes](https://en.wikipedia.org/wiki/Meme) that is interesting to browse through.  Often humorous posts but you can also learn a lot about current events and how other people perceive things.
