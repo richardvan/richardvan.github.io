@@ -5,7 +5,7 @@ description: to learn
 ---
 
 ## Software Engineering Principles
-*Casablanca: "The fundamental things apply, as time goes by."*
+> *Casablanca: "The fundamental things apply, as time goes by."*
 
 ### Software Project Approach
 1. Think through the problem completely before any attempts at implementing (coding)
